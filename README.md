@@ -1,3 +1,5 @@
+**NOTICE: This repository has been archived, and will no longer be maintained or accept pull requests.**
+
 ## Interpolate 1D Array Custom Device ##
 
 **Interpolate 1D Array Custom Device** allows users to import a tab or comma delimited file and use a channel to look up data points in the file.
